@@ -1,0 +1,38 @@
+1
+9
+Katniss Everdeen
+District 12
+Peeta Mellark
+District 12
+Rue
+District 11
+Johanna Mason
+District 7
+Finnick Odair
+District 4
+Beetee Latier
+District 3
+Cato
+District 2
+Glimmer
+District 1
+Coriolanus Snow
+The Capital
+16
+Coriolanus Snow
+Peeta Mellark
+Finnick Odair
+Glimmer
+Beetee Latier
+Katniss Everdeen
+Johanna Mason
+Katniss Everdeen
+Glimmer
+Rue
+Coriolanus Snow
+Katniss Everdeen
+Cato
+Peeta Mellark
+Finnick Odair
+Katniss Everdeen
+
